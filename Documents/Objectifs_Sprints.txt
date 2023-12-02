@@ -1,0 +1,42 @@
+OBJECTIF 1 : Simuler différents fluides (liquide et gaz), approche visuelle
+
+Sprint 1 : Modélisation et mise en équations
+
+> Pour le gaz: Collision élastiques, modèle du gaz parfait
+> Pour le liquide: Modèle du SPH (Smoothed-particle hydrodynamics)
+
+Sprint 2 : Première simulation avec matploltib
+
+Sprint 3 : Ajustement des paramètres et vérification par rapport à la théorie
+
+> Pour le gaz: Comparaison avec la théorie (distribution des vitesses selon Maxwell-Boltzmann)
+
+Sprint 4 : Ajout de fonctionnalités
+
+> Pour le gaz: Calcul de la pression et affichage sur la simulation
+
+
+
+
+
+OBJECTIF 2 : Créer une interface graphique 
+
+Sprint 4 : Interface graphique pour la simulation du liquide
+
+> L'utilisateur peut chosir: Nombre de particules, couleur
+
+Sprint 5: Interface graphique pour la simulation du gaz
+
+> L'utilisateur peut choisir: type de simulation (classique ou mélange de gazs parfait), paramètres (Nombre de particule, Température)
+
+
+OBJECTIF 3 : Partie de Victor (Simulation interactive?)
+
+Sprint 6: ...
+
+
+OBJECTIF 4: Créer une interface globale
+
+Sprint 7 : interface de sélection entre chaque simulation
+
+

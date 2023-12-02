@@ -1,0 +1,9 @@
+USER STORIES
+
+
+En tant qu'utilisateur de l'application , je veux pouvoir simuler l'animation de fluides afin de comprendre son comportement ou obtenir un rendu visuel réaliste.
+En tant qu'utilisateur de l'application , je veux pouvoir choisir le fluide à simuler sans avoir à quitter le logiciel.
+En tant qu'utilisateur de l'application , je veux pouvoir modifier les caractéristiques de mon fluide afin d'observer les impacts sur la simulation.
+En tant qu'utilisateur de l'application , je veux accéder à différentes mesures de la simulation.
+En tant qu'utilisateur de l'application , je veux une interface claire.
+En tant qu'utilisateur de l'application , je veux implanter la simulation dans l'application de mon choix (jeux mobiles par exemple).
