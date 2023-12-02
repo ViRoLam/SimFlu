@@ -1,5 +1,5 @@
 # SimFlu
-Python based app for fluid simulation.
+Python based app for fluid simulation (in french).
 
 ## Description
 
